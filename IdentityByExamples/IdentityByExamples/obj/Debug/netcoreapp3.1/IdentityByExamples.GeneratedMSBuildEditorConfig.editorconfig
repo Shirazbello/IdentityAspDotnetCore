@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = IdentityByExamples
+build_property.ProjectDir = C:\SHIRAZ\identity-aspnetcore\IdentityByExamples\IdentityByExamples\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
